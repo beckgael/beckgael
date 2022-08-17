@@ -1,4 +1,5 @@
-### Hi there 👋
+![Gaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckgael&count_private=true&show_icons=true&theme=dracula) ![Gaël's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beckgael&exclude_repo=florentf9.github.io&hide=jupyter%20notebook&langs_count=10&theme=dracula&layout=compact)
+
 
 <!--
 **beckgael/beckgael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
